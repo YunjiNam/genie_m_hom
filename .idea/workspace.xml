@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35694085-ccc2-45d5-a424-526ac24191d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gem_h1.py" beforeDir="false" afterPath="$PROJECT_DIR$/gem_h1.py" afterDir="false" />
     </list>
@@ -103,9 +102,9 @@
       <screen x="34" y="23" width="1646" height="1027" />
     </state>
     <state width="803" height="267" key="GridCell.Tab.0.right/34.23.1646.1027@34.23.1646.1027" timestamp="1580715505821" />
-    <state x="354" y="179" key="SettingsEditor" timestamp="1580714822954">
+    <state x="354" y="179" key="SettingsEditor" timestamp="1580728940073">
       <screen x="34" y="23" width="1646" height="1027" />
     </state>
-    <state x="354" y="179" key="SettingsEditor/34.23.1646.1027@34.23.1646.1027" timestamp="1580714822954" />
+    <state x="354" y="179" key="SettingsEditor/34.23.1646.1027@34.23.1646.1027" timestamp="1580728940073" />
   </component>
 </project>
