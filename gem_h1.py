@@ -19,7 +19,7 @@ for music in music_li:
         title = a_tag.text
         title_s = title.strip()
         artist = music.select_one('td.info > a.artist.ellipsis').text
-        print(rank, title_s, artist)
+        print (rank, title_s, artist)
         doc = {
             'rank' : rank,
             'title' : title_s,
