@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35694085-ccc2-45d5-a424-526ac24191d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gm_h.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gm_h.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gem_h1.py" beforeDir="false" afterPath="$PROJECT_DIR$/gem_h1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
